@@ -32,6 +32,5 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 ## Author
-hi
 - github - [HIHAWA](https://github.com/HIHAWA)
 ##
