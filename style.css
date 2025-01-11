@@ -27,7 +27,7 @@
     overflow: hidden;
     margin: 25px 0px 0px 0px;
     display: grid;
-    gap: 30px;
+    gap: 25px;
     grid-template-areas: 
     'box-1'
     'box-2'
